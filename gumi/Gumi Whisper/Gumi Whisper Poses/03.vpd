@@ -1,0 +1,10 @@
+Vocaloid Pose Data file
+
+GUMIﾟ V3 Whisper ver.osm;		// 親ファイル名
+1;				// 総ポーズボーン数
+
+Bone0{
+  0.000000,0.000000,0.000000;				// trans x,y,z
+  -0.008625,-0.002103,0.001315,0.999960;		// Quaternion x,y,z,w
+}
+

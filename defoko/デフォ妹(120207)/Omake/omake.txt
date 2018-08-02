@@ -1,0 +1,11 @@
+***　うる目エフェクト用データ
+	eye_base.png
+	highlight.png
+		瞳の材質は下から二番目
+
+***　陰影制御エフェクト用データ
+	shadow_offset.png
+		#define SUBSET "10" // 顔のサブセット番号(デフォ妹)
+
+***　材質名
+	デフォ妹(773)_120207.txt

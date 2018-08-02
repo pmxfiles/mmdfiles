@@ -1,0 +1,29 @@
+/////////////////////////////////////////////////////////
+
+You need to download Mamama's Gumi and:
+
+* Copy the next files onto the tga folder:
+		gumi3.png
+		gumi4.png
+		gumi5.png
+* Copy the next files onto the toon_and_spa folder:
+		toonB_7.bmp
+		toonG.bmp
+		A3G.spa
+		A2.spa
+
+/////////////////////////////////////////////////////////
+
+あなたはまままPのMegpoidをダウンロードする必要があります
+
+* 次のフォルダのtgaにファイルをコピー:
+		gumi3.png
+		gumi4.png
+		gumi5.png
+* 次のフォルダtoon_and_spaにファイルをコピー:
+		toonB_7.bmp
+		toonG.bmp
+		A3G.spa
+		A2.spa
+
+//////////////////////////////////////////////////////////

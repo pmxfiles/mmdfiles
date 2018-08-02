@@ -1,0 +1,47 @@
+Model edit by Emmersaur
+Update to v2.0 by TehPuroisen
+
+==============================
+
+Info:
+GLaDOS (Genetic Lifeform and Disk Operating System) is a fictional character in the 2007 Valve Software video game Portal.
+She is an artificially intelligent computer system in charge of operating the Aperture Science research facility, which is the setting of Portal.
+While initially appearing as a voice to guide and aid the player, her words and actions become increasingly malicious, making multiple attempts to kill the player-character.
+She eventually is revealed to be insane, having killed the scientists who ran Aperture previously with a deadly neurotoxin despite the fact that they installed a morality core in her ("You can always ignore your conscience").
+She also appears in the sequel, Portal 2, taking place hundreds of years after the player-character defeats GLaDOS and being placed back in the chamber.
+
+Portal 2 Website: http://www.thinkwithportals.com/
+Portal Wiki: http://en.wikipedia.org/wiki/Portal_(video_game)
+
+==============================
+
+
+This model was created dedicated to the famous Portal game, and it's sequel Portal 2.
+I really hope you enjoy GLaDoS c:
+
+Rules:
+Editing not allowed.
+Redistribution not allowed.
+
+==============================
+
+Parts used:
+Base Body - LAT/Piron Base - Put together by mersan-sama @ deviantArt
+Head - Miku 18 - Animasa
+Hair - 3DCG - Converted by MMDFakewings18 @ deviantArt.
+Cyber Eye - Emmersaur - Google Sketchup
+Back Wire - Emmersaur - Google Sketchup (Physics & Rigging by Emmersaur)
+Cyber Hands - 3DCG - Converted by ??? (at Nico)
+Cyber Shoes - 3DCG - Converted by ??? (at Nico)
+Shoe Rings - Emmersaur - Google Sketchup
+Cloth Bands - Miku - Nakao
+Cores - LAT GLaDoS - Made by MahoAshley @ deviantArt
+
+Textures used:
+Robot Textures - Emmersaur
+Hair Texture - MMDFakewings18 @ deviantArt
+Aperture Science Logo - Google
+
+
+
+Thankyou <3

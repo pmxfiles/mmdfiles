@@ -1,0 +1,11 @@
+***　うる目エフェクト用データ(act2用)
+	eye_base.png
+	highlight.png
+		瞳の材質は02番
+
+***　陰影制御エフェクト用データ(共通)
+	shadow_offset.png
+		#define SUBSET "01" // 顔のサブセット番号
+
+***　肩出しモデル腕ペイント用データ
+	ude_def.bmp
